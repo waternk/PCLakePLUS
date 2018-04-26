@@ -1,0 +1,29 @@
+RunId	Identifier	Default	Value	Difference	-1
+0	_ReadTemp_	0	1	-1	-1
+0	_ReadQOut_	0	1	-1	-1
+0	_ReadQIn_	0	1	-1	-1
+0	_ReadQEv_	0	1	-1	-1
+0	_ReadPLoad_	0	1	-1	-1
+0	_ReadNLoad_	0	1	-1	-1
+0	_mTemp_	0	txt\mTemp.txt	0	-1
+0	_mQOut_	0	txt\mQOut.txt	0	-1
+0	_mQIn_	0	txt\mQIn.txt	0	-1
+0	_mQEv_	0	txt\mQEv.txt	0	-1
+0	_mPLoad_	0	txt\mPLoad.txt	0	-1
+0	_mNLoad_	0	txt\mNLoad.txt	0	-1
+0	_cFetch_	1000	2355	-1355	-1
+-1
+1	_ReadTemp_	0	1	-1	-1
+1	_ReadQOut_	0	1	-1	-1
+1	_ReadQIn_	0	1	-1	-1
+1	_ReadQEv_	0	1	-1	-1
+1	_ReadPLoad_	0	1	-1	-1
+1	_ReadNLoad_	0	1	-1	-1
+1	_mTemp_	0	txt\mTemp.txt	0	-1
+1	_mQOut_	0	txt\mQOut.txt	0	-1
+1	_mQIn_	0	txt\mQIn.txt	0	-1
+1	_mQEv_	0	txt\mQEv.txt	0	-1
+1	_mPLoad_	0	txt\mPLoad.txt	0	-1
+1	_mNLoad_	0	txt\mNLoad.txt	0	-1
+1	_cFetch_	1000	2355	-1355	-1
+-1

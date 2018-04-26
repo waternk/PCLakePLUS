@@ -1,3 +1,0 @@
-lSysId iStatus dTime fValue sName -1
-0 0 0 0 System -1
--1

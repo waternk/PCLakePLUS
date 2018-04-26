@@ -1,1 +1,0 @@
-ITEM !<typeNameITEM>!'sDDetW' 'sDIMW' 'sNDetW' 'sNH4W' 'sNO3W' 'sO2W' 'sPAIMW' 'sPDetW' 'sPO4W' 'sDPhytW' 'sPPhytW' 'sNPhytW'  DATA  0 0 0 0 0 0 0 0 0 0 0 0

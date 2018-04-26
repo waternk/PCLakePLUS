@@ -1,1 +1,0 @@
-lPopId iStatus dTime fValue sName sEOR

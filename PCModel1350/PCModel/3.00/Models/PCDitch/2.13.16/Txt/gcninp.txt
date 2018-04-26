@@ -1,1 +1,0 @@
-lGcnId iStatus dTime fValue sName sEOR
